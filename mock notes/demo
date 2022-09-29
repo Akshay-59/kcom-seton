@@ -1,1 +1,8 @@
 
+git init 
+git remote add origin" "
+git status
+git add .    // adds all files 
+or git add filename     // adds filename file only
+git commit -m "comment"
+git push origin master
